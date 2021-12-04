@@ -5,7 +5,9 @@
         "core": "*",
         "radio": "*",
         "MotionKit": "github:tinysuperlab/motionkit#9296b0c054be8f694368e7d52e7a9f2397ceb7b9",
-        "SCD30": "github:calliope-mini/pxt-scd30#4758ef2cb9f3b006076b64879c659c694bb9ab0a"
+        "SCD30": "github:calliope-mini/pxt-scd30#4758ef2cb9f3b006076b64879c659c694bb9ab0a",
+        "TM1637": "github:makecode-extensions/tm1637#v1.0.0",
+        "Grove": "github:calliope-edu/pxt-grove#v0.2.7"
     },
     "files": [
         "main.blocks",
